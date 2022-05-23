@@ -11,7 +11,7 @@ size_t print_listint(const listint_t *h)
 const listint_t *cursor = h;
 unsigned int count = 0;
 
-while (cursor != NULL)
+while (cursor)
 {
 printf("%d\n", cursor->n);
 count++;
