@@ -14,7 +14,7 @@ size_t count = 0;
 while (cursor != NULL)
 {
 printf("%d\n", cursor->n);
-count += 1;
+count++;
 cursor = cursor->next;
 }
 return (count);
