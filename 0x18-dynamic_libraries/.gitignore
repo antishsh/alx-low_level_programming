@@ -1,6 +1,40 @@
-abs.c      isdigit.c    putchar.c  strcat.o  strcpy.o   strncpy.o  strstr.o       
-abs.o      isdigit.o          putchar.o  strchr.c  strlen.c   strpbrk.c
-atoi.c     islower.c  memcpy.c       puts.c     strchr.o  strlen.o   strpbrk.o
-atoi.o     islower.o  memcpy.o       puts.o     strcmp.c  strncat.c  strspn.c
-isalpha.c  isupper.c  memset.c         strcmp.o  strncat.o  strspn.o
-isalpha.o  isupper.o  memset.o       strcat.c   strcpy.c  strncpy.c  strstr.c
+abs.c      
+isdigit.c    
+putchar.c  
+strcat.o  
+strcpy.o   
+strncpy.o  
+strstr.o       
+abs.o      
+isdigit.o          
+putchar.o  
+strchr.c  
+strlen.c   
+strpbrk.c
+atoi.c     
+islower.c  
+memcpy.c       
+puts.c     
+strchr.o  
+strlen.o   
+strpbrk.o
+atoi.o     
+islower.o  
+memcpy.o       
+puts.o     
+strcmp.c  
+strncat.c  
+strspn.c
+isalpha.c  
+isupper.c  
+memset.c         
+strcmp.o  
+strncat.o  
+strspn.o
+isalpha.o  
+isupper.o  
+memset.o       
+strcat.c   
+strcpy.c  
+strncpy.c  
+strstr.c
